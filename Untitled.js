@@ -7,6 +7,7 @@ this.blouse_hip = result.user.measurement.blouse_hip
 this.full_hips = result.user.measurement.full_hips
 this.thigh = result.user.measurement.thigh
 this.calf = result.user.measurement.calf
+this.r_up_bust = result.user.measurement.r_up_bust
 this.sleeve_length = result.user.measurement.sleeve_length
 this.sleeve_width = result.user.measurement.sleeve_width
 this.neck_dip = result.user.measurement.neck_dip
